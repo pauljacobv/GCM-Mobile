@@ -1,4 +1,4 @@
-*gcm_register.php*<br />
+*gcm_register.php*<br /><br />
 This file is used to get the GCM tokens from the device,<br />
 The tokens can be passed via an ajax POST form parameter in the body, with key as 'token' and value as 'GCM Token'.<br />
 The fetched tokens are saved to the gcm_token.txt file.<br />
