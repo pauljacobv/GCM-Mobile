@@ -4,7 +4,7 @@ The tokens can be passed via an ajax POST form parameter in the body, with key a
 The fetched tokens are saved to the gcm_token.txt file.<br />
 all the tokens for the registered device will be present in this file.<br />
 
-*push.php*<br /><br />
+*push.php*<br />
 
 This file is used to send push notification to the registered devices.<br />
 The token for the registered devices will be present in the gcm_token.txt file.<br />
